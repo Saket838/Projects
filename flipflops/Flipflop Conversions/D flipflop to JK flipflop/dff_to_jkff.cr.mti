@@ -1,0 +1,22 @@
+{E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module dff_to_jkff
+
+Top level modules:
+	dff_to_jkff
+
+} {} {}} {E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff_tb.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff_tb.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module dff_to_jkff_tb
+
+Top level modules:
+	dff_to_jkff_tb
+
+} {} {}} {E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/d_ff.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/d_ff.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}}

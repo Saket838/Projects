@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/q/examples
+T_opt
+!s110 1759745374
+V<:>f1[>6CWkjCeYb[OcPj1
+Z1 04 14 4 work dff_to_jkff_tb fast 0
+=1-505a65b8f04d-68e3955e-a0-b0c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1759745582
+VJ@C[diYPb;W7f;Xa8lfj:2
+R1
+=1-505a65b8f04d-68e3962e-27e-fd4
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vd_ff
+!s110 1759744948
+!i10b 1
+!s100 KG6@=Ok[=cXklPZFL66k40
+ITH@jkSP8m93Z=1BGo5R:83
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop
+w1759744943
+8E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/d_ff.v
+FE:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/d_ff.v
+L0 1
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1759744948.000000
+!s107 E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/d_ff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/d_ff.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdff_to_jkff
+!s110 1759745070
+!i10b 1
+!s100 Oa4m]<CUfRB^k;WAO:5AF0
+Ic;VEHT9fa>fikXSjjE8^_0
+R4
+R5
+w1759745063
+8E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff.v
+FE:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759745069.000000
+!s107 E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff.v|
+!i113 0
+R7
+R2
+vdff_to_jkff_tb
+!s110 1759745354
+!i10b 1
+!s100 2la[GJbIXWV4Pm`mTfK]i2
+IU2=;8l0mizN^58AS4L_UR2
+R4
+R5
+w1759745340
+8E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff_tb.v
+FE:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759745354.000000
+!s107 E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/flipflops/Flipflop Conversions/D flipflop to JK flipflop/dff_to_jkff_tb.v|
+!i113 0
+R7
+R2
