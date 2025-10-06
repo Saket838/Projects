@@ -1,0 +1,22 @@
+{E:/q/examples/projects/carry look ahead adder/fa.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/carry look ahead adder/fa.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module fa
+
+Top level modules:
+	fa
+
+} {} {}} {E:/q/examples/projects/carry look ahead adder/cla.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/carry look ahead adder/cla.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cla
+
+Top level modules:
+	cla
+
+} {} {}} {E:/q/examples/projects/carry look ahead adder/cla_tb.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/carry look ahead adder/cla_tb.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cla_tb
+
+Top level modules:
+	cla_tb
+
+} {} {}}

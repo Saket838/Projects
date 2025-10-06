@@ -1,0 +1,33 @@
+module cla_tb();
+reg[3:0]a,b;
+reg cin;
+wire[3:0]s;
+wire cout;
+integer i,handle1;
+cla dut (a,b,cin,s,cout);
+task initialize;
+begin
+{a,b,cin} = 9'b0;
+end
+endtask
+task inputs(input[8:0]k);
+begin
+{a,b,cin} = k;
+#10;
+end
+endtask
+initial begin
+initialize;
+for (i=0; i<512; i = i+1) begin
+inputs(i);
+#10;
+end
+$fclose(handle1);
+end
+initial 
+handle1 = $fopen("file1.txt");
+initial
+$fmonitor(handle1,$time, "Inputs = %b %b %b,outputs = %b %b",cin,b,a,s,cout);
+initial 
+#5120 $finish();
+endmodule
