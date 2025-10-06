@@ -1,0 +1,29 @@
+E:/q/examples/projects/t_ff.v {1 {vlog -work work -vopt -stats=none E:/q/examples/projects/t_ff.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module t_ff
+
+Top level modules:
+	t_ff
+
+} {} {}} E:/q/examples/projects/as_mod6.v {1 {vlog -work work -vopt -stats=none E:/q/examples/projects/as_mod6.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module as_mod6
+
+Top level modules:
+	as_mod6
+
+} {} {}} E:/q/examples/projects/as_mod6_tb.v {1 {vlog -work work -vopt -stats=none E:/q/examples/projects/as_mod6_tb.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module as_mod6_tb
+
+Top level modules:
+	as_mod6_tb
+
+} {} {}} E:/q/examples/projects/rst_logic.v {1 {vlog -work work -vopt -stats=none E:/q/examples/projects/rst_logic.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module rst_logic
+
+Top level modules:
+	rst_logic
+
+} {} {}}

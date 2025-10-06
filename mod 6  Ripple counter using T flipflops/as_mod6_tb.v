@@ -1,0 +1,40 @@
+module as_mod6_tb();
+reg[2:0]t;
+reg clk,rst;
+wire [2:0] q,qbar;
+as_mod6 dut (t,clk,rst,q,qbar);
+initial begin
+clk = 1'b0;
+forever
+#5 clk = ~clk;
+end
+task initialize;
+begin
+t = 3'b0;
+rst = 1'b1;
+end
+endtask
+task rst_dut;
+begin
+@ (posedge clk)
+rst = 1'b1;
+@ (posedge clk)
+rst = 1'b0;
+end
+endtask
+task inputs(input[2:0]k);
+begin
+@ (posedge clk)
+t= k;
+end
+endtask
+initial begin
+initialize;
+rst_dut;
+inputs(3'b111);
+#120;
+rst_dut;
+end
+initial 
+#300 $finish();
+endmodule
