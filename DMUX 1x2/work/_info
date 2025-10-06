@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/q/examples
+T_opt
+!s110 1759742627
+VhNjGz?0GH>kJ0;@YC[_Wd1
+Z1 04 11 4 work dmux_1x2_tb fast 0
+=1-505a65b8f04d-68e38aa3-2fb-56d0
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1759742787
+V3G8c1EARJDz06NJ5bkf7U3
+R1
+=1-505a65b8f04d-68e38b42-3b2-488c
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vdmux_1x2
+!s110 1759742304
+!i10b 1
+!s100 Y;@KZhgeYQD8KeoMe?6Gg3
+IW^R29Wij::]X:O6M_:Q`53
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/q/examples/projects/Dmux/DMUX 1x2
+w1759742298
+8E:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2.v
+FE:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2.v
+L0 1
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1759742304.000000
+!s107 E:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdmux_1x2_tb
+!s110 1759742622
+!i10b 1
+!s100 PJikKdGKE82YdM<[Y7iR22
+IPJ>;dc@?Wa6ZHic^[l;1m1
+R4
+R5
+w1759742615
+8E:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2_tb.v
+FE:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759742622.000000
+!s107 E:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Dmux/DMUX 1x2/dmux_1x2_tb.v|
+!i113 0
+R7
+R2
