@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/q/examples
+T_opt
+!s110 1759666445
+VM9VEb:ROZFW=>7_CLQZ]`0
+Z1 04 16 4 work d416_with_d38_tb fast 0
+=1-505a65b8f04d-68e2610c-3a1-dfc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1759666563
+VkaN]BbG]18JW3TX?^;1Ne1
+R1
+=1-505a65b8f04d-68e26183-8c-2bc4
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vd38
+Z4 !s110 1759666434
+!i10b 1
+!s100 YY?lCL@@4JmYHVca`=Bkl0
+IZVj@oNzJ_aXP@i`^n`3YK1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dE:/q/examples/projects/Decoder/decoder 4x16 with 3x8
+w1759665798
+8E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d38.v
+FE:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d38.v
+L0 1
+Z7 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z8 !s108 1759666434.000000
+!s107 E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d38.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d38.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vd416_with_d38
+R4
+!i10b 1
+!s100 gkffJGnPKaDHI<ES=M1O13
+IKH<47=[fO=ERWcaSANWfd1
+R5
+R6
+w1759665980
+8E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38.v
+FE:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38.v|
+!i113 0
+R9
+R2
+vd416_with_d38_tb
+R4
+!i10b 1
+!s100 dcYa6aL>YX]c?4XV`ZCUW0
+I]Ng0GGPid=BS`0o[:0eM@3
+R5
+R6
+w1759666124
+8E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38_tb.v
+FE:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38_tb.v
+L0 3
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Decoder/decoder 4x16 with 3x8/d416_with_d38_tb.v|
+!i113 0
+R9
+R2

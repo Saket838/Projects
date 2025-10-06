@@ -1,0 +1,16 @@
+                   0 Inputs  e = 0 x = 0 y = 0 z = 0 , Outputs d = 0000000000000001
+                  20 Inputs  e = 0 x = 0 y = 0 z = 1 , Outputs d = 0000000000000010
+                  40 Inputs  e = 0 x = 0 y = 1 z = 0 , Outputs d = 0000000000000100
+                  60 Inputs  e = 0 x = 0 y = 1 z = 1 , Outputs d = 0000000000001000
+                  80 Inputs  e = 0 x = 1 y = 0 z = 0 , Outputs d = 0000000000010000
+                 100 Inputs  e = 0 x = 1 y = 0 z = 1 , Outputs d = 0000000000100000
+                 120 Inputs  e = 0 x = 1 y = 1 z = 0 , Outputs d = 0000000001000000
+                 140 Inputs  e = 0 x = 1 y = 1 z = 1 , Outputs d = 0000000010000000
+                 160 Inputs  e = 1 x = 0 y = 0 z = 0 , Outputs d = 0000000100000000
+                 180 Inputs  e = 1 x = 0 y = 0 z = 1 , Outputs d = 0000001000000000
+                 200 Inputs  e = 1 x = 0 y = 1 z = 0 , Outputs d = 0000010000000000
+                 220 Inputs  e = 1 x = 0 y = 1 z = 1 , Outputs d = 0000100000000000
+                 240 Inputs  e = 1 x = 1 y = 0 z = 0 , Outputs d = 0001000000000000
+                 260 Inputs  e = 1 x = 1 y = 0 z = 1 , Outputs d = 0010000000000000
+                 280 Inputs  e = 1 x = 1 y = 1 z = 0 , Outputs d = 0100000000000000
+                 300 Inputs  e = 1 x = 1 y = 1 z = 1 , Outputs d = 1000000000000000
