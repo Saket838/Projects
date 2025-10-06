@@ -1,0 +1,4 @@
+`define four 3'b100
+`define five 3'b101
+`define six 3'b110
+`define seven 3'b 111

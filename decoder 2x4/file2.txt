@@ -1,0 +1,8 @@
+                   0 Inputs  e = 0 a = 00, Outputs d = 0000
+                  20 Inputs  e = 0 a = 01, Outputs d = 0000
+                  40 Inputs  e = 0 a = 10, Outputs d = 0000
+                  60 Inputs  e = 0 a = 11, Outputs d = 0000
+                  80 Inputs  e = 1 a = 00, Outputs d = 0001
+                 100 Inputs  e = 1 a = 01, Outputs d = 0010
+                 120 Inputs  e = 1 a = 10, Outputs d = 0100
+                 140 Inputs  e = 1 a = 11, Outputs d = 1000

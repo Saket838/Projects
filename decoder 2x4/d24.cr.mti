@@ -1,0 +1,15 @@
+{E:/q/examples/projects/Decoder/decoder 2x4/d24_tb.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/Decoder/decoder 2x4/d24_tb.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module d24_tb
+
+Top level modules:
+	d24_tb
+
+} {} {}} {E:/q/examples/projects/Decoder/decoder 2x4/d24.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/Decoder/decoder 2x4/d24.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module d24
+
+Top level modules:
+	d24
+
+} {} {}}
