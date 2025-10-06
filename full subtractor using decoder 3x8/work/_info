@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/q/examples
+T_opt
+!s110 1759740824
+V[z1Pj<bhKD_C8Q6OFKj=Z3
+Z1 04 14 4 work fs_with_d38_tb fast 0
+=1-505a65b8f04d-68e38398-2b7-2b10
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1759740956
+V8<@;O:<]g;a626KHDg:Mz1
+R1
+=1-505a65b8f04d-68e3841c-83-13e0
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vd38
+Z4 !s110 1759740558
+!i10b 1
+!s100 fMET5;[LCnQ0kKeb^=V[`1
+ISdXPMaHkNS5O5FU`[C;Q^0
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dE:/q/examples/projects/Decoder/full subtractor using decoder 3x8
+w1759667908
+8E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/d38.v
+FE:/q/examples/projects/Decoder/full subtractor using decoder 3x8/d38.v
+L0 1
+Z7 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z8 !s108 1759740558.000000
+!s107 E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/d38.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/d38.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfs_with_d38
+!s110 1759740819
+!i10b 1
+!s100 YV;ieJVYi?Qh>RNgEhPV@0
+IFDTSQNo[^<I2JRNzAVdeS0
+R5
+R6
+w1759740812
+8E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38.v
+FE:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1759740819.000000
+!s107 E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38.v|
+!i113 0
+R9
+R2
+vfs_with_d38_tb
+R4
+!i10b 1
+!s100 iZnaSk<8I4j4mRl`RGIBW0
+I:OX^C2[TOFBz>jWb5KhW00
+R5
+R6
+w1759740225
+8E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38_tb.v
+FE:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38_tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Decoder/full subtractor using decoder 3x8/fs_with_d38_tb.v|
+!i113 0
+R9
+R2

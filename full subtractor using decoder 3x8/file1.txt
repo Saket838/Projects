@@ -1,0 +1,8 @@
+                   0 inputs = 0 0 0 ,outputs = 0 0
+                  20 inputs = 0 0 1 ,outputs = 1 1
+                  40 inputs = 0 1 0 ,outputs = 1 1
+                  60 inputs = 0 1 1 ,outputs = 0 1
+                  80 inputs = 1 0 0 ,outputs = 1 0
+                 100 inputs = 1 0 1 ,outputs = 0 0
+                 120 inputs = 1 1 0 ,outputs = 0 0
+                 140 inputs = 1 1 1 ,outputs = 1 1
