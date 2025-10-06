@@ -1,0 +1,8 @@
+`define eight 4'b1000
+`define nine 4'b1001 
+`define ten 4'b1010 
+`define eleven 4'b1011 
+`define twelve 4'b1100 
+`define thirteen 4'b1101 
+`define forteen 4'b1110 
+`define fifteen 4'b1111

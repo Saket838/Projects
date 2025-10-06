@@ -1,0 +1,16 @@
+                   0 Inputs  e = 0 a = 000, Outputs d = 00000000
+                  20 Inputs  e = 0 a = 001, Outputs d = 00000000
+                  40 Inputs  e = 0 a = 010, Outputs d = 00000000
+                  60 Inputs  e = 0 a = 011, Outputs d = 00000000
+                  80 Inputs  e = 0 a = 100, Outputs d = 00000000
+                 100 Inputs  e = 0 a = 101, Outputs d = 00000000
+                 120 Inputs  e = 0 a = 110, Outputs d = 00000000
+                 140 Inputs  e = 0 a = 111, Outputs d = 00000000
+                 160 Inputs  e = 1 a = 000, Outputs d = 00000001
+                 180 Inputs  e = 1 a = 001, Outputs d = 00000010
+                 200 Inputs  e = 1 a = 010, Outputs d = 00000100
+                 220 Inputs  e = 1 a = 011, Outputs d = 00001000
+                 240 Inputs  e = 1 a = 100, Outputs d = 00010000
+                 260 Inputs  e = 1 a = 101, Outputs d = 00100000
+                 280 Inputs  e = 1 a = 110, Outputs d = 01000000
+                 300 Inputs  e = 1 a = 111, Outputs d = 10000000
