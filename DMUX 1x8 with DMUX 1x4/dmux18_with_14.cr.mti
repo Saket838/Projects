@@ -1,0 +1,22 @@
+{E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module dmux18_with_14
+
+Top level modules:
+	dmux18_with_14
+
+} {} {}} {E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux_1x4.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux_1x4.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module dmux_1x4
+
+Top level modules:
+	dmux_1x4
+
+} {} {}} {E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14_tb.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14_tb.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module dmux18_with_14_tb
+
+Top level modules:
+	dmux18_with_14_tb
+
+} {} {}}

@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/q/examples
+T_opt
+!s110 1759744316
+VF5WO7a:]AS]kbl_P[2TU<2
+Z1 04 17 4 work dmux18_with_14_tb fast 0
+=1-505a65b8f04d-68e3913b-39e-41fc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1759744454
+VhH8gBXNj8U_KkMAWKF_;=1
+R1
+=1-505a65b8f04d-68e391c6-79-39e4
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vdmux18_with_14
+!s110 1759744004
+!i10b 1
+!s100 KZa97n402bUjHL>zB6NQX3
+ILTVRL;@4Y[3J<f49QFP>32
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4
+w1759743999
+8E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14.v
+FE:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14.v
+L0 1
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1759744004.000000
+!s107 E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vdmux18_with_14_tb
+!s110 1759744308
+!i10b 1
+!s100 f_klf7ERSM4HHMTaknHXD0
+IT:Aa^;@3]GJKbORm6G<a=0
+R4
+R5
+w1759744301
+8E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14_tb.v
+FE:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759744308.000000
+!s107 E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux18_with_14_tb.v|
+!i113 0
+R7
+R2
+vdmux_1x4
+!s110 1759743842
+!i10b 1
+!s100 7A^QSUoE0[GjhWlcaQhQM2
+IG[hREm?IN0BS3<NY]?H0G0
+R4
+R5
+w1759743837
+8E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux_1x4.v
+FE:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux_1x4.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759743842.000000
+!s107 E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux_1x4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/Dmux/DMUX 1x8 with DMUX 1x4/dmux_1x4.v|
+!i113 0
+R7
+R2

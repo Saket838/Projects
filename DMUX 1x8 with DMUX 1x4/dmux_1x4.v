@@ -1,0 +1,8 @@
+module dmux_1x4(a,s1,s0,e,y0,y1,y2,y3);
+input a,s1,s0,e;
+output y0,y1,y2,y3;
+assign y0 =e & ~s1 & ~s0 & a;
+assign y1 = e & ~s1 & s0 & a;
+assign y2 = e & s1 & ~s0 & a;
+assign y3 = e & s1 & s0 & a;
+endmodule
