@@ -1,0 +1,29 @@
+{E:/q/examples/projects/BCD Ripple counter using T flipflops/rst_logic.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/BCD Ripple counter using T flipflops/rst_logic.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module rst_logic
+
+Top level modules:
+	rst_logic
+
+} {} {}} {E:/q/examples/projects/BCD Ripple counter using T flipflops/t_ff.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/BCD Ripple counter using T flipflops/t_ff.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module t_ff
+
+Top level modules:
+	t_ff
+
+} {} {}} {E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module as_mod10
+
+Top level modules:
+	as_mod10
+
+} {} {}} {E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10_tb.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10_tb.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module as_mod10_tb
+
+Top level modules:
+	as_mod10_tb
+
+} {} {}}

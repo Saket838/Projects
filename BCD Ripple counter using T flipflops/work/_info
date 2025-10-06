@@ -1,0 +1,123 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/q/examples
+T_opt
+!s110 1759489383
+VJ3cUDMCb4Q:jc7bYN9AF^1
+Z1 04 11 4 work as_mod10_tb fast 0
+=1-505a65b8f04d-68dfad67-2c2-53c8
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1759489415
+VZ5_@Di]CSJzJ:YM580jfH1
+R1
+=1-505a65b8f04d-68dfad87-14c-84c
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1759491377
+VRzE0`OIaBM:TdS]KW=jML1
+R1
+=1-505a65b8f04d-68dfb531-103-2dd4
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt2
+R3
+vas_mod10
+!s110 1759488679
+!i10b 1
+!s100 C[F0lQY@S9j7[b>H>WAD63
+I90bVSbhWTb7zD5[3g:2;d1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/q/examples/projects/BCD Ripple counter using T flipflops
+w1759488675
+8E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10.v
+FE:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10.v
+L0 1
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1759488679.000000
+!s107 E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vas_mod10_tb
+!s110 1759489295
+!i10b 1
+!s100 <5cP0>]gXK]fiV7C_<d6I3
+IHEHPjkbm?C[@EkIn?Na9=3
+R4
+R5
+w1759489289
+8E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10_tb.v
+FE:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759489295.000000
+!s107 E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/BCD Ripple counter using T flipflops/as_mod10_tb.v|
+!i113 0
+R7
+R2
+vrst_logic
+!s110 1759489374
+!i10b 1
+!s100 75W42bbIeCnSb>=A5SP3`2
+I<ozEhd9jfUD>j1DOZ5]Z=3
+R4
+R5
+w1759489369
+8E:/q/examples/projects/BCD Ripple counter using T flipflops/rst_logic.v
+FE:/q/examples/projects/BCD Ripple counter using T flipflops/rst_logic.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759489374.000000
+!s107 E:/q/examples/projects/BCD Ripple counter using T flipflops/rst_logic.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/BCD Ripple counter using T flipflops/rst_logic.v|
+!i113 0
+R7
+R2
+vt_ff
+!s110 1759488350
+!i10b 1
+!s100 aoB[YJYank]lbUm1Im4m@0
+If44^3NEfW6laG9THMML_n3
+R4
+R5
+w1759488346
+8E:/q/examples/projects/BCD Ripple counter using T flipflops/t_ff.v
+FE:/q/examples/projects/BCD Ripple counter using T flipflops/t_ff.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759488350.000000
+!s107 E:/q/examples/projects/BCD Ripple counter using T flipflops/t_ff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/BCD Ripple counter using T flipflops/t_ff.v|
+!i113 0
+R7
+R2
