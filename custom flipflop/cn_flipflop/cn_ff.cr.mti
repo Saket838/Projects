@@ -1,0 +1,15 @@
+{E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cn_ff
+
+Top level modules:
+	cn_ff
+
+} {} {}} {E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff_tb.v} {1 {vlog -work work -vopt -stats=none {E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff_tb.v}
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cn_ff_tb
+
+Top level modules:
+	cn_ff_tb
+
+} {} {}}

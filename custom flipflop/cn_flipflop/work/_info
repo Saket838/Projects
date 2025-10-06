@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/q/examples
+T_opt
+!s110 1759657356
+V^``hIiBXOab7mXnnkdi2z3
+Z1 04 8 4 work cn_ff_tb fast 0
+=1-505a65b8f04d-68e23d8b-19e-463c
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.6c;65
+R0
+T_opt1
+!s110 1759657483
+V4=hgOK1_MU=f4<JMPTi@e3
+R1
+=1-505a65b8f04d-68e23e0b-31-29e0
+o-quiet -auto_acc_if_foreign -work work -debugdb
+R2
+n@_opt1
+R3
+vcn_ff
+!s110 1759656885
+!i10b 1
+!s100 AgG4CKoVTV19OBIh?ZbK=0
+I7CE5d>EzZQ;kWLR0cZh0A2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dE:/q/examples/projects/custom flipflop/cn_flipflop
+w1759656848
+8E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff.v
+FE:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff.v
+L0 1
+Z6 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1759656885.000000
+!s107 E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcn_ff_tb
+!s110 1759657346
+!i10b 1
+!s100 3J=kND2cAzm`?SXg<0hn90
+IW2BkP[P]PMDNflkTLG3KI3
+R4
+R5
+w1759657342
+8E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff_tb.v
+FE:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1759657346.000000
+!s107 E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/q/examples/projects/custom flipflop/cn_flipflop/cn_ff_tb.v|
+!i113 0
+R7
+R2
