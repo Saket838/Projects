@@ -1,0 +1,8 @@
+module fa_with_d38(a,b,cin,s,c);
+input a,b,cin;
+output s,c;
+wire[7:0]d;
+d38 d1 (a,b,,cin,d);
+assign s = d[1] | d[2] | d[4] | d[7];
+assign c = d[3] | d[5] | d[6] | d[7];
+endmodule
